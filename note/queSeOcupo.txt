@@ -1,0 +1,127 @@
+......Paginas Sobre Tipos de fuentes (Letras)......
+
+    https://www.dafont.com/es/
+
+    https://www.1001freefonts.com/es/
+
+    https://fonts.google.com/
+
+    https://www.urbanfonts.com/free-fonts.htm
+
+    https://es.fontriver.com/
+
+
+......Pagina Donde Pueden Descargar Imagenes......
+
+    https://www.klipartz.com/
+
+    Pagina Para Quitar Fondo A Tus Imagenes
+
+        https://www.remove.bg/es
+
+    Pagina Para Ver El Tamaño De Mis Imagenes
+
+        https://www.iloveimg.com/es/redimensionar-imagen/jpg-cambiar-tamano
+    
+    Pagina Para Convertir De .png A . webp
+
+        https://convertio.co/es/png-webp/
+
+......Pagina De Colores......
+
+    https://coolors.co/palettes/trending
+
+
+En tu formulario se ocupara {
+
+    Nombre
+    Apellido Materno
+    Apellido Paterno
+    Dirección de domicilio
+    Código postal
+    correo Electronico
+    Número de teléfono
+    Producto{
+        Te De Manzana
+        Te De Manzanilla
+        Te De Limon
+        Te De Lima
+    }
+    Cantidad{
+        1 Kilo
+        Medio Kielo
+        Caja De 2 Kilos
+        Bolsas De 35Gramos
+    }
+
+    Con Esto ya que lo lleve generara la compra de su producto y mostraremos una vista de compra
+
+
+} 
+
+
+
+
+
+
+Menus {
+
+    Carrusel {
+
+        3 Img 
+
+        Descripcion De Pagina Y ALgunos Juegos
+
+    }
+
+
+    Catalogo {
+
+        Juegos (BotonEnCard){
+
+            Va A Contener La Descripcion De Los Juegos Lo Mismo Para El De Peliculas Y Series 
+            Pero Hay Se Coloca Videos De You Tube
+
+        }
+
+    }
+
+    Peliculas y Series {
+
+        Peliculas Basadas En Juegos
+
+    }
+
+    Informacion Del Sitio {
+
+        Descrion De Nosotos
+
+    }
+
+
+}
+
+Colores De La Pagina Principales {
+
+    Rojo 
+    Negro
+    Blanco
+
+}
+
+Img {
+
+    Nota :
+        .webp
+        No .png .jpg entre otros esos no
+    
+}
+
+Que Tiene Que Llevar El Proyecto  {
+
+    Aos Animation
+    Mascara De Carga Del Diego
+    Subir A Git - > Crear Una Rama Con El Nombre gh-pague Para Que Lo Abran En Sus Celulares
+    Pagina De Una Sola Vista
+
+}
