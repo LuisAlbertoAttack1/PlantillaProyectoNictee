@@ -5,7 +5,7 @@ $(document).ready(function() {
 function mascaraObloqueo() {
     $.blockUI({
         //AQUI SOLOCA CAMBIA LA IMG Y COLOCA EL ORDEN DE TUS CARPETAS PARA QUE FUNCIONE BIEN
-        message: ' <img src="../../img/LogoCircular.png" class="img-fluid" width="300" height="300">',
+        message: ' <img src="https://luisalbertoattack1.github.io/PlantillaProyectoNictee/img/LogoCircular.png" class="img-fluid" width="300" height="300">',
         css: {
             border: 'none',
             // padding: '15px', 
